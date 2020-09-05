@@ -1,5 +1,5 @@
 # Hey, I'm Amanda! (she/her) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I’m passionate about enalbing others. Specifically, I'm driven by opportunities that can help bridge the gap for womxn, BIPOC, and first-generation students in tech. I enjoy creating my own solutions through research and intuition. 
+I’m passionate about enabling others. Specifically, I'm driven by opportunities that can help bridge the gap for womxn, BIPOC, and first-generation students in tech. I enjoy creating my own solutions through research and intuition. 
 
 Check out my [portfolio](https://github.com/atran163/portfolio) to see what I've been up to! 
 
@@ -9,12 +9,16 @@ Check out my [portfolio](https://github.com/atran163/portfolio) to see what I've
 - learning more about natural language processing, data engineering, and business intelligence
 - currently working as a cloud computing apprentice & data automation assistant 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tech Stack: Data Science and Machine Learning</h3>
 
-- Pandas | Numpy | Scikit-Learn | TensorFlow | Matplotlib
-- R | Python | Java | Tidyverse
-- MySQL | MongoDB | PostgreSQL
-- Airflow | Spark | Jupyter | Tableau | Excel VBA 
+- <b>Core Analytic Languages:</b> | Python | Java | R (Tidyverse)
+- <b>Exploratory Data Analysis:</b> Pandas | Numpy | Scikit-Learn | TensorFlow | Matplotlib
+- <b>Data Visualization:</b> Tableau | Excel VBA | Jupyter Notebooks
+- <b>Machine Learning Engineering:</b> Airflow | Spark  
+- <b>Database Development:</b> MySQL | MongoDB | PostgreSQL
+
+
+
 
 
 <h3> 🤝🏻 Let's Connect </h3>
